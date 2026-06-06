@@ -64,10 +64,9 @@ FoodQuest/
 │
 ├── main.py
 ├── main_gui.py
-├── nyxbot.py
 ├── score.txt (generated after gameplay)
 ├── final_score.txt (generated after gameplay)
-└── Tutorial.txt
+└── Tutorial.txt\
 ```
 
 ## How to Run
