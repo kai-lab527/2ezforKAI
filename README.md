@@ -35,31 +35,57 @@ Technologies Used
 Project Structure
 
 FoodQuest/
+
 │
+
 ├── models/
+
 │ ├── recipe.py
+
 │ ├── ingredient.py
+
 │ ├── score.py
+
 │ ├── customer.py
+
 │ └── achievement.py
+
 │
+
 ├── services/
+
 │ ├── cooking_manager.py
+
 │ ├── inventory_manager.py
+
 │ ├── composting_manager.py
+
 │ ├── score_manager.py
+
 │ ├── customer_manager.py
+
 │ ├── achievement_manager.py
+
 │ ├── market_manager.py
+
 │ └── difficulty_manager.py
+
 │
+
 ├── tests/
+
 │ └── test_game.py
+
 │
+
 ├── ui/
+
 │ └── main_gui.py
+
 │
+
 ├── main.py
+
 └── score.txt (generated after gameplay)
 
 How to Run
